@@ -217,3 +217,6 @@ If we want to undo until specific commit, use the hash from the commit log:
   ... or a hard change removal ...
     $ git reset --hard <hash from a previous git log commit>
         > erases latest updates!
+
+
+        ... some more update ....
